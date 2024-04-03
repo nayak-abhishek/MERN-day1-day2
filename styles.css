@@ -1,0 +1,55 @@
+/*
+ {
+    margin: 0px;
+    padding: 0px;
+}*/
+
+ body { 
+     background-color: #E1BEE7  ; 
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #9C27B0;
+    text-align: center;
+}
+h2{
+    color: #9C27B0;
+}
+#myImage {
+    height: 200px;
+    width: 200px;
+    display:inline-block;
+    margin-left: 643px;
+    border-radius: 20px;
+    
+}
+
+#myImage:hover{
+    box-shadow: 2px 2px 20px #AB47BC;
+}
+
+ul nav li{
+    margin-top: 25px;
+    position: relative;
+    bottom: 100px;
+}
+
+a{
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:hover{
+    background-color: #CE93D8;
+}
+
+footer {
+    margin-top: 150px;
+    color: #7B1FA2;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
